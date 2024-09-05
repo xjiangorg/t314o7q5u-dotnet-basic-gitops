@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: t314o7q5u-dotnet-basic-repository
+spec:
+  url: https://github.com/xjiangorg/t314o7q5u-dotnet-basic
